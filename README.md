@@ -4,37 +4,37 @@
 - Verge3D (use TreeJS)
 https://3dtransforms.desandro.com/
 
-# Game Engine
+## Game Engine
 - RPGpaperMaker (2.5D engine)
 
-# Design Software
+## Design Software
 - libresprite (pixel art, animation, etc.)
 - Gimp
 
-# Management
+## Management
 - figma 
 
-# Communication
+## Communication
 - Slack
 - Discord
 
-# Color Scheme
+## Color Scheme
 https://paletton.com/ 
 https://www.happyhues.co/
 
-# Free Pics 
+## Free Pics 
 https://www.manypixels.co/gallery 
 https://pixabay.com/ 
 https://unsplash.com/ 
 https://iconscout.com/illustrations/management?price=free
 
-# SVG
+## SVG
 https://themeisle.com/illustrations/
 https://undraw.co/illustrations
 https://iradesign.io/gallery/illustrations
 https://drawkit.com/product/people-working-collaborating-illustrations
 
-# CSS / JS Animation
+## CSS / JS Animation
 https://cubic-bezier.com/
 https://easings.net/
 https://jakearchibald.github.io/svgomg/
@@ -46,10 +46,10 @@ https://csstriggers.com/
 https://codepen.io/tag/trending
 https://popper.js.org/
 
-# Weather API
+## Weather API
 https://openweathermap.org/api
 
-# React Histing
+## React Hosting
 - Vercel
 - Firebase
 - Netlify
@@ -58,8 +58,6 @@ https://openweathermap.org/api
 - Surge
 - Render
 - GitLab Pages
-
-test123456788
 
 
 —
