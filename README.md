@@ -50,14 +50,14 @@ https://popper.js.org/
 https://openweathermap.org/api
 
 # React Histing
-Vercel
-Firebase
-Netlify
-Github Pages?
-Heroku
-Surge
-Render
-GitLab Pages
+- Vercel
+- Firebase
+- Netlify
+- Github Pages?
+- Heroku
+- Surge
+- Render
+- GitLab Pages
 
 test123456788
 
