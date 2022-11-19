@@ -49,7 +49,15 @@ https://popper.js.org/
 # Weather API
 https://openweathermap.org/api
 
-
+# React Histing
+Vercel
+Firebase
+Netlify
+Github Pages?
+Heroku
+Surge
+Render
+GitLab Pages
 
 test123456788
 
